@@ -136,7 +136,7 @@ Implementação usando apenas `map`, `filter` e `reduce` (sem loops):
 
 ## 👨‍💻 Autor
 
-Rodrigo Balmant
+Rodrigo Machado Balmant 202505136031 & Marcelo Calixto da Silva 202505136121
 - Disciplina: Linguagem Python
 - Professor: Raphael Maurício Sanches de Jesus
 - Instituição: Estácio
